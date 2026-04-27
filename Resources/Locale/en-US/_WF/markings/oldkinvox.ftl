@@ -9,7 +9,6 @@ marking-OldKinVoxClawsHandsRight = [Ok Vox] Claws (Right)
 marking-OldKinVoxScutesArmsLeft = [Ok Vox] Scutes (Left)
 marking-OldKinVoxScutesArmsRight = [Ok Vox] Scutes (Right)
 
-
 marking-OldKinVoxClawsFeetLeft = [Ok Vox] Claws (Left)
 marking-OldKinVoxClawsFeetRight = [Ok Vox] Claws (Right)
 marking-OldKinVoxScutesLegsLeft = [Ok Vox] Scutes (Left)

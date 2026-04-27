@@ -1,0 +1,7 @@
+- type: entity
+  id: WFClothingBackpackSatchelClear
+  name: discreet satchel
+  parent: [ ClothingBackpackSatchel, BaseC3ContrabandNoValue, ContrabandClothing ]
+  components:
+  - type: Sprite
+    sprite: _WF/Clothing/Back/Satchels/satchelclear.rsi

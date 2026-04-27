@@ -1,0 +1,14 @@
+- type: entity
+  parent: ClothingHeadset
+  id: WFClothingHeadsetClear
+  name: discreet headset
+  components:
+  - type: Sprite
+    sprite: _WF/Clothing/Ears/Headsets/headsetclear.rsi
+  - type: Clothing
+    sprite: _WF/Clothing/Ears/Headsets/headsetclear.rsi
+  - type: ContainerFill
+    containers:
+      key_slots:
+      - EncryptionKeyCommon
+

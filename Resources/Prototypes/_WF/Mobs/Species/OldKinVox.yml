@@ -57,12 +57,12 @@
     implicitHeatRegulation: 250
     sweatHeatRegulation: 1000
     shiveringHeatRegulation: 2000
-    normalBodyTemperature: 146.00
-    thermalRegulationTemperatureThreshold: 2 # bottoms out at 34.5kelvin in space
+    normalBodyTemperature: 288
+    thermalRegulationTemperatureThreshold: 2
   - type: Temperature
     coldDamageThreshold: 1.0 # required for math things
     heatDamageThreshold: 308 # Very close to station temperature, don't put near a fire. Or do, I'm not your mother
-    currentTemperature: 146.00
+    currentTemperature: 288
     coldDamage:
       types:
         Cold : 0 #Just incase

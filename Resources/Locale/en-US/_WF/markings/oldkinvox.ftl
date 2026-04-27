@@ -14,5 +14,4 @@ marking-OldKinVoxClawsFeetRight = [Ok Vox] Claws (Right)
 marking-OldKinVoxScutesLegsLeft = [Ok Vox] Scutes (Left)
 marking-OldKinVoxScutesLegsRight = [Ok Vox] Scutes (Right)
 
-
 marking-OldKinVoxTail = [Ok Vox] Tail

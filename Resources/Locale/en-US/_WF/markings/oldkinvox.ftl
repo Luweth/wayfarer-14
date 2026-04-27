@@ -4,8 +4,8 @@ marking-OldKinVoxNeckMarkings = [Ok Vox] Neck Markings
 
 marking-OldKinVoxArmMarkingsLeft = [Ok Vox] Arm Markings (Left)
 marking-OldKinVoxArmMarkingsRight = [Ok Vox] Arm Markings (Right)
-marking-OldKinVoxClawsHandsLeft = [Ok Vox] Claws (Left)
-marking-OldKinVoxClawsHandsRight = [Ok Vox] Claws (Right)
+marking-OldKinVoxClawsHandsLeft = [Ok Vox] Hand Claws (Left)
+marking-OldKinVoxClawsHandsRight = [Ok Vox] Hand Claws (Right)
 marking-OldKinVoxScutesArmsLeft = [Ok Vox] Scutes (Left)
 marking-OldKinVoxScutesArmsRight = [Ok Vox] Scutes (Right)
 

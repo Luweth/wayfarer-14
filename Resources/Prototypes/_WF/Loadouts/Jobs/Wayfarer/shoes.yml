@@ -18,13 +18,13 @@
     shoes: ClothingShoesClothwrap
 
 - type: loadout
-  id: WFClothingShoesFootProtectors
+  id: WFClothingShoesBootsClear
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: ShoesCapableNF
   price: 0
   equipment:
-    shoes: ClothingShoesFootProtectors
+    shoes: WFClothingShoesBootsClear
 
 # Socks
 

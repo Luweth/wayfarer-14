@@ -2344,3 +2344,56 @@ Entries:
   id: 6767
   time: '2026-04-27T10:49:22.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/679
+- author: TheSlapper
+  changes:
+    - type: Fix
+      message: (Miles) Fixed low midi volume. (Reduce your midi volume slider!)
+  id: 6768
+  time: '2026-04-27T22:23:17.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/688
+- author: Luweth
+  changes:
+    - type: Fix
+      message: Fixed bag!
+    - type: Add
+      message: 'Ears and Suit description '
+  id: 6769
+  time: '2026-04-27T22:37:32.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/689
+- author: DevArchwave
+  changes:
+    - type: Add
+      message: Markings can now be set as toggle-able regardless of layer.
+    - type: Add
+      message: Markings can now have a custom name specified that will show in game.
+    - type: Add
+      message: Markings can now be specified to only allow the user to adjust them.
+    - type: Add
+      message: Markings can now have custom verbiage for putting on and taking off.
+  id: 6770
+  time: '2026-04-27T22:39:30.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/634
+- author: DevArchwave
+  changes:
+    - type: Add
+      message: >-
+        Added a colour picker and colour palette selector to the Spraypainter's
+        decal menu.
+    - type: Tweak
+      message: Made a few other tweaks to the Spraypainter's UI as well.
+    - type: Add
+      message: Added floral decals to the spraypainter.
+    - type: Add
+      message: >-
+        Added syndicate airlocks to the list of spray paintable airlocks
+        options.
+  id: 6771
+  time: '2026-04-27T23:09:52.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/692
+- author: TheSlapper
+  changes:
+    - type: Tweak
+      message: (Miles) Improved the Elite Pirate Hardsuit's headlamp.
+  id: 6772
+  time: '2026-04-27T23:57:08.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/690

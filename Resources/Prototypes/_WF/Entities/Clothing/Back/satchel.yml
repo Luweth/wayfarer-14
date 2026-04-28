@@ -1,7 +1,8 @@
 - type: entity
   id: WFClothingBackpackSatchelClear
   name: discreet satchel
-  parent: [ ClothingBackpackSatchel, BaseC3ContrabandNoValue, ContrabandClothing ]
+  parent: ClothingBackpackSatchel
+  description: Your friends may still question how you manage to hide it all.
   components:
   - type: Sprite
     sprite: _WF/Clothing/Back/Satchels/satchelclear.rsi

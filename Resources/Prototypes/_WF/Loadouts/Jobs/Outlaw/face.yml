@@ -1,0 +1,7 @@
+#T0
+- type: loadout
+  id: WFClothingMaskClear
+  price: 0
+  storage:
+    back:
+    - WFClothingMaskClear

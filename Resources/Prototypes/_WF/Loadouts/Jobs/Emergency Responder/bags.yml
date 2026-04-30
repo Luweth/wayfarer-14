@@ -1,0 +1,6 @@
+- type: loadout
+  id: WFClothingBackpackSatchelClear
+  price: 0
+  equipment:
+    back: WFClothingBackpackSatchelClear
+  groupBy: "basic"

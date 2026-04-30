@@ -1,0 +1,6 @@
+- type: loadout
+  id: WFClothingUniformJumpsuitClear
+  price: 0
+  equipment:
+    jumpsuit: WFClothingUniformJumpsuitClear
+  groupBy: "basicJumpsuit"

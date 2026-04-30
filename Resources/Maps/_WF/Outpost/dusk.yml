@@ -100157,8 +100157,6 @@ entities:
       pos: -2.5,-62.5
       parent: 2
     - type: DeviceNetwork
-      configurators:
-      - invalid
       deviceLists:
       - 88
     - type: Construction

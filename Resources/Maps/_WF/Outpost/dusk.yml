@@ -100252,8 +100252,6 @@ entities:
       pos: -9.5,-64.5
       parent: 2
     - type: DeviceNetwork
-      configurators:
-      - invalid
       deviceLists:
       - 102
     - type: AtmosPipeLayers
@@ -100267,8 +100265,6 @@ entities:
       pos: -15.5,-64.5
       parent: 2
     - type: DeviceNetwork
-      configurators:
-      - invalid
       deviceLists:
       - 102
     - type: AtmosPipeLayers
@@ -102249,8 +102245,6 @@ entities:
       pos: -8.5,-62.5
       parent: 2
     - type: DeviceNetwork
-      configurators:
-      - invalid
       deviceLists:
       - 102
     - type: AtmosPipeLayers
@@ -102264,8 +102258,6 @@ entities:
       pos: -16.5,-62.5
       parent: 2
     - type: DeviceNetwork
-      configurators:
-      - invalid
       deviceLists:
       - 102
     - type: AtmosPipeLayers

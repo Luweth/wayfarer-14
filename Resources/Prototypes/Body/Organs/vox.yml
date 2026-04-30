@@ -90,8 +90,19 @@
 - type: entity
   id: OrganVoxTongueB
   parent: OrganHumanTongue
-  name: vox tongue 
+  name: vox tongue
   description: "A fleshy muscle mostly used for screaming."
+  components:
+  - type: Sprite
+    sprite: Mobs/Species/Vox/organs.rsi
+  - type: Item
+    size: Small
+
+- type: entity
+  parent: OrganHumanBrain
+  id: OrganVoxStack
+  name: cortical stack
+  description: "A stack containing all the memories and experiences of a vox."
   components:
   - type: Sprite
     sprite: Mobs/Species/Vox/organs.rsi

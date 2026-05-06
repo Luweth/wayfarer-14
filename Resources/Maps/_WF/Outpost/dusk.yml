@@ -4,8 +4,8 @@ meta:
   engineVersion: 267.3.0
   forkId: ""
   forkVersion: ""
-  time: 05/06/2026 00:29:48
-  entityCount: 20455
+  time: 05/06/2026 02:45:57
+  entityCount: 20463
 maps:
 - 1
 grids:
@@ -17962,7 +17962,7 @@ entities:
       pos: -7.5,-29.5
       parent: 2
     - type: Door
-      secondsUntilStateChange: -177913.02
+      secondsUntilStateChange: -178174.47
       state: Opening
     - type: DeviceLinkSource
       lastSignals:
@@ -103988,6 +103988,7 @@ entities:
   - uid: 14204
     components:
     - type: Transform
+      rot: 1.5707963267948966 rad
       pos: 20.5,1.5
       parent: 2
 - proto: GlassBoxFrame
@@ -115408,7 +115409,7 @@ entities:
       rot: 3.141592653589793 rad
       pos: -61.5,-59.5
       parent: 2
-  - uid: 20444
+  - uid: 20452
     components:
     - type: Transform
       anchored: False
@@ -115417,7 +115418,7 @@ entities:
       parent: 1
     - type: Physics
       bodyType: Dynamic
-  - uid: 20445
+  - uid: 20453
     components:
     - type: Transform
       anchored: False
@@ -115425,7 +115426,7 @@ entities:
       parent: 1
     - type: Physics
       bodyType: Dynamic
-  - uid: 20446
+  - uid: 20454
     components:
     - type: Transform
       anchored: False
@@ -115433,7 +115434,7 @@ entities:
       parent: 1
     - type: Physics
       bodyType: Dynamic
-  - uid: 20447
+  - uid: 20455
     components:
     - type: Transform
       anchored: False
@@ -115442,7 +115443,7 @@ entities:
       parent: 1
     - type: Physics
       bodyType: Dynamic
-  - uid: 20448
+  - uid: 20456
     components:
     - type: Transform
       anchored: False
@@ -115451,7 +115452,7 @@ entities:
       parent: 1
     - type: Physics
       bodyType: Dynamic
-  - uid: 20449
+  - uid: 20457
     components:
     - type: Transform
       anchored: False
@@ -115460,7 +115461,7 @@ entities:
       parent: 1
     - type: Physics
       bodyType: Dynamic
-  - uid: 20450
+  - uid: 20458
     components:
     - type: Transform
       anchored: False
@@ -115468,7 +115469,7 @@ entities:
       parent: 1
     - type: Physics
       bodyType: Dynamic
-  - uid: 20451
+  - uid: 20459
     components:
     - type: Transform
       anchored: False
@@ -115477,7 +115478,7 @@ entities:
       parent: 1
     - type: Physics
       bodyType: Dynamic
-  - uid: 20452
+  - uid: 20460
     components:
     - type: Transform
       anchored: False
@@ -115486,7 +115487,7 @@ entities:
       parent: 1
     - type: Physics
       bodyType: Dynamic
-  - uid: 20453
+  - uid: 20461
     components:
     - type: Transform
       anchored: False
@@ -115495,7 +115496,7 @@ entities:
       parent: 1
     - type: Physics
       bodyType: Dynamic
-  - uid: 20454
+  - uid: 20462
     components:
     - type: Transform
       anchored: False
@@ -115504,7 +115505,7 @@ entities:
       parent: 1
     - type: Physics
       bodyType: Dynamic
-  - uid: 20455
+  - uid: 20463
     components:
     - type: Transform
       anchored: False
@@ -116652,27 +116653,6 @@ entities:
           - DoorBolt
     - type: Fixtures
       fixtures: {}
-  - uid: 16338
-    components:
-    - type: Transform
-      rot: 1.5707963267948966 rad
-      pos: 31.5,-74.5
-      parent: 2
-    - type: DeviceLinkSource
-      linkedPorts:
-        383:
-        - - Pressed
-          - DoorBolt
-    - type: Fixtures
-      fixtures: {}
-  - uid: 16339
-    components:
-    - type: Transform
-      rot: 3.141592653589793 rad
-      pos: 18.5,-0.5
-      parent: 2
-    - type: Fixtures
-      fixtures: {}
   - uid: 16340
     components:
     - type: Transform
@@ -116692,23 +116672,7 @@ entities:
           - Toggle
     - type: Fixtures
       fixtures: {}
-  - uid: 16345
-    components:
-    - type: Transform
-      rot: 1.5707963267948966 rad
-      pos: 15.5,0.5
-      parent: 2
-    - type: DeviceLinkSource
-      linkedPorts:
-        245:
-        - - Pressed
-          - DoorBolt
-        244:
-        - - Pressed
-          - DoorBolt
-    - type: Fixtures
-      fixtures: {}
-  - uid: 16346
+  - uid: 16342
     components:
     - type: Transform
       pos: 14.5,-20.5
@@ -116723,7 +116687,7 @@ entities:
           - DoorBolt
     - type: Fixtures
       fixtures: {}
-  - uid: 16347
+  - uid: 16343
     components:
     - type: Transform
       rot: 3.141592653589793 rad
@@ -116793,7 +116757,7 @@ entities:
           - Forward
     - type: Fixtures
       fixtures: {}
-  - uid: 16348
+  - uid: 16344
     components:
     - type: Transform
       pos: 26.5,-127.5
@@ -116937,7 +116901,7 @@ entities:
           - Forward
     - type: Fixtures
       fixtures: {}
-  - uid: 16349
+  - uid: 16345
     components:
     - type: Transform
       pos: 26.5,-148.5
@@ -117084,7 +117048,7 @@ entities:
           - Forward
     - type: Fixtures
       fixtures: {}
-  - uid: 16350
+  - uid: 16346
     components:
     - type: Transform
       pos: 1.5,-161.5
@@ -117153,7 +117117,7 @@ entities:
           - Forward
     - type: Fixtures
       fixtures: {}
-  - uid: 16351
+  - uid: 16347
     components:
     - type: Transform
       pos: -17.5,-148.5
@@ -117300,7 +117264,7 @@ entities:
           - Forward
     - type: Fixtures
       fixtures: {}
-  - uid: 16352
+  - uid: 16348
     components:
     - type: Transform
       pos: -17.5,-127.5
@@ -117447,7 +117411,7 @@ entities:
           - Forward
     - type: Fixtures
       fixtures: {}
-  - uid: 16353
+  - uid: 16349
     components:
     - type: Transform
       rot: 1.5707963267948966 rad
@@ -117517,7 +117481,7 @@ entities:
           - Forward
     - type: Fixtures
       fixtures: {}
-  - uid: 16354
+  - uid: 16350
     components:
     - type: Transform
       rot: -1.5707963267948966 rad
@@ -117587,7 +117551,7 @@ entities:
           - Forward
     - type: Fixtures
       fixtures: {}
-  - uid: 16355
+  - uid: 16351
     components:
     - type: Transform
       rot: 3.141592653589793 rad
@@ -117624,7 +117588,7 @@ entities:
           - Forward
     - type: Fixtures
       fixtures: {}
-  - uid: 16356
+  - uid: 16352
     components:
     - type: Transform
       rot: 3.141592653589793 rad
@@ -117661,7 +117625,7 @@ entities:
           - Forward
     - type: Fixtures
       fixtures: {}
-  - uid: 16357
+  - uid: 16353
     components:
     - type: Transform
       pos: 12.5,-61.5
@@ -117687,7 +117651,46 @@ entities:
       fixtures: {}
 - proto: SignalButtonDirectional
   entities:
+  - uid: 16338
+    components:
+    - type: Transform
+      rot: 1.5707963267948966 rad
+      pos: 31.5,-74.5
+      parent: 2
+    - type: DeviceLinkSource
+      linkedPorts:
+        383:
+        - - Pressed
+          - DoorBolt
+    - type: Fixtures
+      fixtures: {}
+  - uid: 16339
+    components:
+    - type: Transform
+      rot: 3.141592653589793 rad
+      pos: 18.5,-0.5
+      parent: 2
+    - type: DeviceLinkSource
+      linkedPorts:
+        245:
+        - - Pressed
+          - DoorBolt
+    - type: Fixtures
+      fixtures: {}
   - uid: 16341
+    components:
+    - type: Transform
+      rot: 1.5707963267948966 rad
+      pos: 15.5,0.5
+      parent: 2
+    - type: DeviceLinkSource
+      linkedPorts:
+        244:
+        - - Pressed
+          - DoorBolt
+    - type: Fixtures
+      fixtures: {}
+  - uid: 16354
     components:
     - type: Transform
       rot: -1.5707963267948966 rad
@@ -117700,7 +117703,7 @@ entities:
           - DoorBolt
     - type: Fixtures
       fixtures: {}
-  - uid: 16342
+  - uid: 16355
     components:
     - type: Transform
       rot: 1.5707963267948966 rad
@@ -117713,7 +117716,7 @@ entities:
           - DoorBolt
     - type: Fixtures
       fixtures: {}
-  - uid: 16343
+  - uid: 16356
     components:
     - type: Transform
       rot: 1.5707963267948966 rad
@@ -117726,7 +117729,7 @@ entities:
           - DoorBolt
     - type: Fixtures
       fixtures: {}
-  - uid: 16344
+  - uid: 16357
     components:
     - type: Transform
       rot: -1.5707963267948966 rad
@@ -139444,6 +139447,47 @@ entities:
     components:
     - type: Transform
       pos: 0.5,-96.5
+      parent: 2
+  - uid: 20444
+    components:
+    - type: Transform
+      pos: 2.5,-29.5
+      parent: 2
+  - uid: 20445
+    components:
+    - type: Transform
+      pos: 6.5,-29.5
+      parent: 2
+  - uid: 20446
+    components:
+    - type: Transform
+      rot: 1.5707963267948966 rad
+      pos: 21.5,-24.5
+      parent: 2
+  - uid: 20447
+    components:
+    - type: Transform
+      pos: -18.5,-55.5
+      parent: 2
+  - uid: 20448
+    components:
+    - type: Transform
+      pos: -9.5,-55.5
+      parent: 2
+  - uid: 20449
+    components:
+    - type: Transform
+      pos: 12.5,-55.5
+      parent: 2
+  - uid: 20450
+    components:
+    - type: Transform
+      pos: 39.5,-55.5
+      parent: 2
+  - uid: 20451
+    components:
+    - type: Transform
+      pos: 16.5,-5.5
       parent: 2
 - proto: WarningN2
   entities:

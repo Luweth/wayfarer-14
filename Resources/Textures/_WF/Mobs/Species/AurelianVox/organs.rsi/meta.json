@@ -8,7 +8,14 @@
     },
     "states": [
         {
-            "name": "brain"
+            "name": "brain",
+            "delays": [
+                [
+                    0.6,
+                    0.1,
+                    0.1
+                ]
+            ]
         },
 		{
             "name": "eyeball-l"

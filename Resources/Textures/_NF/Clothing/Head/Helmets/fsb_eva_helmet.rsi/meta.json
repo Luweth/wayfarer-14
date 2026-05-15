@@ -77,6 +77,10 @@
       "name": "HELMET-light-glow-vox",
       "directions": 4
     },
+	{
+      "name": "HELMET-light-glow-avox",
+      "directions": 4
+    },
     {
       "name": "on-equipped-HELMET-feroxi",
       "directions": 4

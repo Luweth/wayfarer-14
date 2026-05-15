@@ -143,15 +143,15 @@
     - map: [ "eyes" ]
     - map: [ "belt" ]
     - map: [ "id" ]
-    - map: [ "enum.HumanoidVisualLayers.TailBehind" ]
-    - map: [ "outerClothing" ]
-    - map: [ "back" ]
+    - map: [ "back" ] # Not default to fix bags going over tail, going to have to find a better solution for this layering in the future.
+    - map: [ "enum.HumanoidVisualLayers.TailBehind" ] # Should always be used for avox tails by default.
+    - map: [ "outerClothing" ] # Must be here or tails will show over armors.
     - map: [ "neck" ]
-    - map: [ "suitstorage" ] # This is not in the default order
+    - map: [ "suitstorage" ] # This is not in the default order.
     - map: [ "enum.HumanoidVisualLayers.TailOversuit" ]
     - map: [ "enum.HumanoidVisualLayers.SnoutCover" ]
     - map: [ "enum.HumanoidVisualLayers.FacialHair" ]
-    - map: [ "mask" ]
+    - map: [ "mask" ] # Moved so hair is shown over back sprites for masks.
     - map: [ "enum.HumanoidVisualLayers.Hair" ]
     - map: [ "enum.HumanoidVisualLayers.HeadSide" ]
     - map: [ "enum.HumanoidVisualLayers.HeadTop" ]

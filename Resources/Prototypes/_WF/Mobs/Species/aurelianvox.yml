@@ -104,8 +104,6 @@
         - MobMask
         layer:
         - MobLayer
-  - type: Carriable
-    canPickup: false
   - type: ProtectedFromStepTriggers
   - type: Insulated
     coefficient: 0.5 # Still zappy, but no prone

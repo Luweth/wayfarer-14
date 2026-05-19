@@ -98,12 +98,14 @@
         shape:
           !type:PhysShapeCircle
           radius: 0.42
-        density: 220
+        density: 300
         restitution: 0.0
         mask:
         - MobMask
         layer:
         - MobLayer
+  - type: Carriable
+    canPickup: false
   - type: ProtectedFromStepTriggers
   - type: Insulated
     coefficient: 0.5 # Still zappy, but no prone

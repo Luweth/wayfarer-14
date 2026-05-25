@@ -146,6 +146,7 @@
 - type: marking
   id: VoxTailAnimated
   bodyPart: Tail
+  markingCategory: Tail
   #groupWhitelist: [] # Wayfarer
   forcedColoring: true
   sprites:
@@ -165,6 +166,7 @@
 - type: marking
   id: VoxTailShortAnimated
   bodyPart: Tail
+  markingCategory: Tail
   #groupWhitelist: [] # Wayfarer
   forcedColoring: true
   sprites:
@@ -184,6 +186,7 @@
 - type: marking
   id: VoxTailBigAnimated
   bodyPart: Tail
+  markingCategory: Tail
   #groupWhitelist: [] # Wayfarer
   forcedColoring: true
   sprites:
@@ -193,6 +196,7 @@
 - type: marking
   id: VoxTailSpikes
   bodyPart: Tail
+  markingCategory: Tail
   #groupWhitelist: [Vox] # Wayfarer
   forcedColoring: true
   sprites:
@@ -202,6 +206,7 @@
 - type: marking
   id: VoxTailSpikesAnimated
   bodyPart: Tail
+  markingCategory: Tail
   #groupWhitelist: [] # Wayfarer
   forcedColoring: true
   sprites:
@@ -211,6 +216,7 @@
 - type: marking
   id: VoxTailDocked
   bodyPart: Tail
+  markingCategory: Tail
   #groupWhitelist: [Vox] # Wayfarer
   forcedColoring: true
   sprites:
@@ -220,6 +226,7 @@
 - type: marking
   id: VoxTailDockedAnimated
   bodyPart: Tail
+  markingCategory: Tail
   #groupWhitelist: [] # Wayfarer
   forcedColoring: true
   sprites:
@@ -230,6 +237,7 @@
 - type: marking
   id: VoxTailSplit
   bodyPart: Tail
+  markingCategory: Tail
   #groupWhitelist: [Vox] # Wayfarer
   forcedColoring: true
   sprites:
@@ -239,6 +247,7 @@
 - type: marking
   id: VoxTailSplitAnimated
   bodyPart: Tail
+  markingCategory: Tail
   #groupWhitelist: [] # Wayfarer
   forcedColoring: true
   sprites:

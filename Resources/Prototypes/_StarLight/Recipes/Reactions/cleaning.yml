@@ -1,13 +1,13 @@
-- type: reaction
-  id: AmmoniaFromResomiBlood
-  requiredMixerCategories:
-    - Stir
-  minTemp: 370
-  reactants:
-    ResomiBlood:
-      amount: 2
-  products:
-    Ammonia: 1
+#- type: reaction
+#  id: AmmoniaFromResomiBlood
+#  requiredMixerCategories:
+#    - Stir
+#  minTemp: 370
+#  reactants:
+#    ResomiBlood:
+#      amount: 2
+#  products:
+#    Ammonia: 1
 
 - type: reaction
   id: AmmoniaFromAvaliBlood

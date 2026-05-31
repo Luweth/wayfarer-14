@@ -132,10 +132,3 @@
     containers:
       key_slots:
       - EncryptionKeyDoc
-
-# Blood-red headset - Wayfarer
-
-- type: entity
-  parent: [ClothingHeadsetCommon, ClothingHeadsetAltSyndicate]
-  id: ClothingHeadsetAltSyndicateCommon
-  categories: [ HideSpawnMenu ]

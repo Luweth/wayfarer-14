@@ -13,3 +13,7 @@
       key_slots:
       - EncryptionKeyCommon
 
+- type: entity
+  parent: [ClothingHeadsetCommon, ClothingHeadsetAltSyndicate]
+  id: ClothingHeadsetAltSyndicateCommon
+  categories: [ HideSpawnMenu ]

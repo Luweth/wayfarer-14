@@ -13,7 +13,7 @@
   parent: BaseVesselAntag
   name: Bocaskreeo
   description: A modified variant of the Bocakillo suited to N2 breathing Outlaws. Has two broadside cannons and a rear-facing disposals launcher. Runs on plasma.
-  price: 22250 # 16500 + (115*50) = 22250 (appraise+tc*50)
+  price: 27500 # 21680 + (115*50) = 27430 (appraise+tc*50)
   category: Small
   group: BlackMarket
   shuttlePath: /Maps/_WF/Shuttles/Outlaw/bocaskreeo.yml

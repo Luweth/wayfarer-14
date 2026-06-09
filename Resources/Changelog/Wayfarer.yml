@@ -4351,3 +4351,113 @@ Entries:
   id: 6998
   time: '2026-06-06T21:17:33.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1097
+- author: RoY7x
+  changes:
+    - type: Add
+      message: >-
+        RAEWS (Radar Assisted Early Warning System) Dishes are now in the game.
+        Hopefully they'll do their job and alert you to an impending crisis!
+  id: 6999
+  time: '2026-06-08T02:04:34.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1058
+- author: Rellu225
+  changes:
+    - type: Add
+      message: Added RAEWS Array POI.
+  id: 7000
+  time: '2026-06-08T02:29:14.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1104
+- author: drraccoony
+  changes:
+    - type: Remove
+      message: >-
+        The Pit Collided with Zekke-4 and has been destroyed (ThePit POI
+        Removed)
+  id: 7001
+  time: '2026-06-08T02:30:44.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1130
+- author: DevArchwave
+  changes:
+    - type: Fix
+      message: Fixed an unpowered thruster in the Takeaway shuttle.
+  id: 7002
+  time: '2026-06-08T02:31:28.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1128
+- author: DevArchwave
+  changes:
+    - type: Fix
+      message: Fixed infoshades' inventory footprint.
+  id: 7003
+  time: '2026-06-08T02:36:53.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1121
+- author: DevArchwave
+  changes:
+    - type: Fix
+      message: Fixed the hydroponics overlay sprites. Sorry about that.
+  id: 7004
+  time: '2026-06-08T02:40:42.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1114
+- author: VVersengt
+  changes:
+    - type: Tweak
+      message: Animal organs can now be blended.
+  id: 7005
+  time: '2026-06-08T02:41:11.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1112
+- author: RoY7x
+  changes:
+    - type: Add
+      message: New racing buoy's for shuttle grand prix
+    - type: Tweak
+      message: >-
+        Adjusted mooring buoy price to what it should have been for the ship
+        standards.
+  id: 7006
+  time: '2026-06-08T02:42:24.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1057
+- author: DevArchwave
+  changes:
+    - type: Add
+      message: >-
+        Medical implants should now repeat the deaths of players that have been
+        dead for 20 minutes.
+  id: 7007
+  time: '2026-06-08T02:56:17.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1124
+- author: Luweth
+  changes:
+    - type: Add
+      message: Added cracked PDA
+    - type: Fix
+      message: Fixed pirate PDA
+  id: 7008
+  time: '2026-06-08T04:42:43.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1132
+- author: Nnelg
+  changes:
+    - type: Add
+      message: gave service roles most of the base Wayfarer loadout options
+  id: 7009
+  time: '2026-06-08T08:35:43.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1074
+- author: Rellu225
+  changes:
+    - type: Tweak
+      message: Tweaked RAEWS Array POI
+  id: 7010
+  time: '2026-06-08T18:35:45.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1133
+- author: DevArchwave
+  changes:
+    - type: Fix
+      message: IPC sprite layering/visibility has hopefully been fixed.
+  id: 7011
+  time: '2026-06-08T18:36:36.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1118
+- author: Goodfaun
+  changes:
+    - type: Fix
+      message: Consent guidebook not having square brackets in the link format.
+  id: 7012
+  time: '2026-06-09T01:23:54.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1117

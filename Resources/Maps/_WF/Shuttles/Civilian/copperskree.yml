@@ -4,8 +4,8 @@ meta:
   engineVersion: 267.3.0
   forkId: ""
   forkVersion: ""
-  time: 06/28/2026 00:31:17
-  entityCount: 371
+  time: 06/28/2026 04:50:35
+  entityCount: 373
 maps: []
 grids:
 - 1
@@ -2105,6 +2105,13 @@ entities:
     - type: Transform
       pos: 5.5,-5.5
       parent: 1
+- proto: MiningDrill
+  entities:
+  - uid: 373
+    components:
+    - type: Transform
+      pos: 4.5024085,-7.1514544
+      parent: 1
 - proto: NFAshtray
   entities:
   - uid: 255
@@ -2543,6 +2550,13 @@ entities:
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 4.5,-7.5
+      parent: 1
+- proto: StructureMeleeWeaponRackWallmountedSalvageFilled
+  entities:
+  - uid: 372
+    components:
+    - type: Transform
+      pos: 5.5,-7.5
       parent: 1
 - proto: SubstationBasic
   entities:

@@ -12,7 +12,7 @@
   price: 45000 # 251 tiles * 50 + 28347 = ~41000 So we round it up to 45000 for a nice even number.
   category: Medium
   group: BlackMarket
-  shuttlePath: /Maps/_WF/Shuttles/Outlaw/Veliola.yml
+  shuttlePath: /Maps/_WF/Shuttles/Outlaw/veliola.yml
   guidebookPage: ShipyardVeliola
   class:
   - Pirate

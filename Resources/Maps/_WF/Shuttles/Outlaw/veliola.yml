@@ -4,7 +4,7 @@ meta:
   engineVersion: 267.3.0
   forkId: ""
   forkVersion: ""
-  time: 06/29/2026 08:17:42
+  time: 06/29/2026 08:29:54
   entityCount: 630
 maps: []
 grids:
@@ -3815,12 +3815,14 @@ entities:
   - uid: 486
     components:
     - type: Transform
-      pos: 7.5,-2.5
+      rot: 3.141592653589793 rad
+      pos: 6.5,-2.5
       parent: 1
   - uid: 487
     components:
     - type: Transform
-      pos: 6.5,-2.5
+      rot: 3.141592653589793 rad
+      pos: 7.5,-2.5
       parent: 1
 - proto: SubstationWallBasic
   entities:

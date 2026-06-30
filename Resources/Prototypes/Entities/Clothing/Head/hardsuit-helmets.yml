@@ -531,7 +531,7 @@
       - state: equipped-head-vulpkanin
       - state: equipped-head-unshaded-vulpkanin
         shader: unshaded
-  - type: FlashImmunity
+  - type: FlashImmunity # Wayfarer
   - type: EyeProtection # Wayfarer
       # Wayfarer End
   - type: PointLight

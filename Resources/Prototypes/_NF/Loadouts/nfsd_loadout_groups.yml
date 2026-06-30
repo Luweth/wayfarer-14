@@ -11,6 +11,7 @@
   - NfsdClothingBackpackSatchelNfsdCream
   - NfsdClothingBackpackDuffelNfsdCream
   - NfsdClothingBackpackMessengerNfsdCream
+  - CGPClothingBackpackCGPCombat # Wayfarer
   fallbacks:
   - NfsdClothingBackpackNfsdBrown
 
@@ -27,6 +28,7 @@
   - NfsdClothingBackpackSatchelNfsdBrown
   - NfsdClothingBackpackDuffelNfsdBrown
   - NfsdClothingBackpackMessengerNfsdBrown
+  - CGPClothingBackpackCGPCombat # Wayfarer
   fallbacks:
   - NfsdClothingBackpackNfsdCream
 

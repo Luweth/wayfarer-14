@@ -824,9 +824,9 @@
 #    - UplinkSecurityWeapons
 #  conditions:
 #    - !type:StoreWhitelistCondition
-#     whitelist:
-#       tags:
-#         - SecurityUplink
+#      whitelist:
+#        tags:
+#          - SecurityUplink
 
 - type: listing
   id: UplinkSecurityCaptainSword

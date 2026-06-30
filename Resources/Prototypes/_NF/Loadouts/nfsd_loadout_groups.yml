@@ -197,3 +197,23 @@
   - NfsdNFClothingWristsetNfsdGreen
   fallbacks:
   - NfsdClothingHeadsetAltNfsdGreen
+
+# Wayfarer start
+# master headset list
+- type: loadoutGroup
+  id: NfsdEarsMaster
+  name: loadout-group-contractor-ears
+  minLimit: 1
+  loadouts:
+  - NfsdClothingHeadsetNfsdBrown
+  - NfsdClothingHeadsetNfsdCream
+  - NfsdClothingHeadsetNfsdGreen
+  - NfsdClothingHeadsetAltNfsdBrown
+  - NfsdClothingHeadsetAltNfsdCreamandBrown
+  - NfsdClothingHeadsetAltNfsdGreen
+  - NfsdNFClothingWristsetNfsdBrown
+  - NfsdNFClothingWristsetNfsdCream
+  - NfsdNFClothingWristsetNfsdGreen
+  fallbacks:
+  - NfsdClothingHeadsetAltNfsdBrown
+# end Wayfarer

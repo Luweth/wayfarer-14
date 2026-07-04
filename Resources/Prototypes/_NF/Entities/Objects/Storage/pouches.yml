@@ -1066,7 +1066,7 @@
       visible: false
     - state: decal-shield
       map: [ "decal1" ]
-      color: "#f2b833" # Wayfarer 537045 < fcba03
+      color: "#fcba03" # Wayfarer f2b833 < fcba03
   - type: Item
     inhandVisuals:
       left:

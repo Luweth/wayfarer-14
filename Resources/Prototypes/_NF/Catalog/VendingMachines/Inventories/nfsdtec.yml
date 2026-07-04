@@ -11,7 +11,7 @@
     ClusterBangFull: 2
     GrenadeStinger: 4
     Flash: 10
-    FlashlightNfsdLite: 10
+    FlashlightSeclite: 10 # Wayfarer FlashlightNfsdLite < FlashlightSeclite
     HoloprojectorNfsd: 4
     Tourniquet: 5
     ClothingEyesGlassesSunglasses: 5

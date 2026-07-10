@@ -26,7 +26,7 @@
         pda-commodore
   - type: PdaBorderColor
     borderColor: "#23262A"
-    accentHColor: "#ffa71a"
+    accentHColor: "#cf7332"
     accentVColor: "#447987"
   - type: Icon
     state: pda-commodore
@@ -122,8 +122,8 @@
        pda-seniorpeacekeeper
   - type: PdaBorderColor
     borderColor: "#23262A"
-    accentHColor: "#ffa71a"
-    accentVColor: "#ffa71a"
+    accentHColor: "#cf7332"
+    accentVColor: "#cf7332"
   - type: Icon
     state: pda-seniorpeacekeeper
 
@@ -149,8 +149,8 @@
         pda-masteratarms
   - type: PdaBorderColor
     borderColor: "#23262A"
-    accentHColor: "#ffa71a"
-    accentVColor: "#ffa71a"
+    accentHColor: "#cf7332"
+    accentVColor: "#cf7332"
   - type: Icon
     state: pda-masteratarms
 
@@ -176,7 +176,7 @@
         pda-peacekeeper
   - type: PdaBorderColor
     borderColor: "#23262A"
-    accentVColor: "#ffa71a"
+    accentVColor: "#cf7332"
   - type: Icon
     state: pda-peacekeeper
 
@@ -202,7 +202,7 @@
         pda-juniorpeacekeeper
   - type: PdaBorderColor
     borderColor: "#23262A"
-    accentHColor: "#ffa71a"
+    accentHColor: "#cf7332"
   - type: Icon
     state: pda-juniorpeacekeeper
 

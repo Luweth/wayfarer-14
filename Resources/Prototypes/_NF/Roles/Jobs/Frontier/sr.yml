@@ -35,7 +35,18 @@
     - RubberStampSr
     - DoorRemoteCommand
   encryptionKeys:
-  - EncryptionKeyStationMaster
+  # Wayfarer Start
+  # - EncryptionKeyStationMaster # Wayfarer SR should not have CGP channels.
+    - EncryptionKeyCommon
+    - EncryptionKeyCommand
+    - EncryptionKeyEngineering
+    - EncryptionKeyMedical
+    - EncryptionKeyScience
+    - EncryptionKeyService
+    - EncryptionKeyCargo
+    - EncryptionKeyTraffic
+    - EncryptionKeyGreeting
+    # End Wayfarer
 
 - type: chameleonOutfit
   id: StationRepresentativeChameleonOutfit

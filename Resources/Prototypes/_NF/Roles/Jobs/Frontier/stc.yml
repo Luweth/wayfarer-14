@@ -47,6 +47,7 @@
     - EncryptionKeyCargo
     - EncryptionKeyTraffic
     - EncryptionKeyGreeting
+    - EncryptionKeySecurity
     # End Wayfarer
 
 - type: chameleonOutfit
